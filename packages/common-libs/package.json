@@ -1,0 +1,12 @@
+{
+  "name": "common-libs",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "dev": "tsc --watch --declaration",
+    "build": "tsc --declaration"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
